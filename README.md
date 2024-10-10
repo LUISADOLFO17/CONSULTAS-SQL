@@ -19,8 +19,7 @@ Se procedió a migrar la base de datos en la nube de Microsoft Azure y poder rea
 
 ¿Cuáles son los cinco principales clientes en términos de participación y volumen de pedidos de maíz de grado uno y grado dos durante los últimos cuatro trimestres?
 
-![image](https://github.com/user-attachments/assets/db02dcef-a326-4dc9-8b92-caf64e48b858)
-
+![image](https://github.com/user-attachments/assets/35a7cbc5-a52c-4487-9bd0-156f1d00aed6)
 
 # PREGUNTA 2 
 
