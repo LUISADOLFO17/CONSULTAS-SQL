@@ -25,20 +25,19 @@ Se procedió a migrar la base de datos en la nube de Microsoft Azure y poder rea
 
 ¿Cuál es el volumen total de importación de maíz, tanto de grado uno como de grado dos, en cada trimestre por año?
 
-![image](https://github.com/user-attachments/assets/70aed6d8-3ed2-4c5e-9b51-db81745f2300)
+![image](https://github.com/user-attachments/assets/5968bb12-88f1-4918-9ba1-adddab146102)
 
 # PREGUNTA 3
 
 ¿ Cual son los 3 principales puertos  de los cuales tenemos mayor volumen  de importación del producto grado 1  y  grado 2 en el 2024?
 
-![image](https://github.com/user-attachments/assets/5789dba5-668e-4e97-ae4a-d612f6e2d5fd)
-![image](https://github.com/user-attachments/assets/7ca39b3e-4838-4448-a867-b45a2a32762b)
+![image](https://github.com/user-attachments/assets/aa6bb796-21d7-434a-996d-419624fb8cfe)
 
 # PREGUNTA 4 
 
 ¿Cuál es el porcentaje de participación de importación de maíz de grado uno y grado dos durante los últimos cuatro trimestres del 2023? 
 
-![image](https://github.com/user-attachments/assets/83787025-fe2c-4de3-b676-867c96b2444d)
+![image](https://github.com/user-attachments/assets/b268dc0a-8038-4825-9e63-56978496a441)
 
 # PREGUNTA 5 
 
