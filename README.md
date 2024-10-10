@@ -10,11 +10,6 @@ Se elaboró un diagrama de la base de datos para visualizar la estructura y las 
 
 ![image](https://github.com/user-attachments/assets/0065fb36-c072-45a4-9de6-faab0f28ce20)
 
-# Conexión a AZURE
-Se procedió a migrar la base de datos en la nube de Microsoft Azure y poder realizar consultas 
-
-![image](https://github.com/user-attachments/assets/b4d8ae3e-6c93-4b5d-a619-13b0131b9e75)
-
 # PREGUNTA 1
 
 ¿Cuáles son los cinco principales clientes en términos de participación y volumen de pedidos de maíz de grado uno y grado dos durante los últimos cuatro trimestres?
@@ -37,41 +32,40 @@ Se procedió a migrar la base de datos en la nube de Microsoft Azure y poder rea
 
 ¿Cuál es el porcentaje de participación de importación de maíz de grado uno y grado dos durante los últimos cuatro trimestres del 2023? 
 
-![image](https://github.com/user-attachments/assets/b268dc0a-8038-4825-9e63-56978496a441)
+![image](https://github.com/user-attachments/assets/992b9a08-5bb2-4fef-ad58-54bcdd40c021)
 
 # PREGUNTA 5 
 
 ¿Cómo varió el porcentaje de participación en el mercado de la empresa ABC en el primer trimestre de 2023 en comparación con el primer trimestre de 2024? 
 
-![image](https://github.com/user-attachments/assets/6205cd01-90eb-4fc1-993b-f277a0d015f2)
+![image](https://github.com/user-attachments/assets/7ba3c7b9-a766-465a-851f-d569b7593de1)
 
 # PREGUNTA 6
 
 ¿Cuáles son los 2 proveedores  más importantes en términos de volumen de maíz importado en el año 2024 para el maíz grado 01 y maíz grado 02? 
 
-![image](https://github.com/user-attachments/assets/60f50d47-3823-439e-a583-0780a2f2933a)
+![image](https://github.com/user-attachments/assets/acf883fa-bf87-4f9f-804e-4e6f5f858f49)
 
 # PREGUNTA 7
 
 ¿Cómo ha sido la evolución de los pedidos tipo contado y pedidos tipo crédito en relación al total de pedidos por trimestres a partir del 2024 ?
 
-![image](https://github.com/user-attachments/assets/49e54b16-ab9e-45e8-add4-54fe6716122a)
+![image](https://github.com/user-attachments/assets/30e47cb3-cc45-44bd-a4de-fd87b8e69aed)
 
 # PREGUNTA 8
 
 ¿Cuál es el porcentage de participación trimestral de cada producto por el pais de origen?
 
-![image](https://github.com/user-attachments/assets/21ea18f9-d0be-4bcf-9c2a-53c5d1e99c0e)
+![image](https://github.com/user-attachments/assets/6b3bcebf-9449-463d-94f5-a8c7d5bfcedb)
 
 # PREGUNTA 9
 
 ¿Cuál es la correlación entre el volumen de importación y el volumen pedidos de la empresa ABC durante los trimestres del 2023 y 2024?
 
-![image](https://github.com/user-attachments/assets/505c1f30-bb82-4d61-9352-33e41c29e02a)
-
+![image](https://github.com/user-attachments/assets/8d27586d-6be5-4370-ad1b-e727e2c304ea)
 
 # PREGUNTA 10
 
 ¿Cuál es la fluctuación de los ingresos y los costos que incurren en la importación del maíz durante los trimestres del 2023 y 2024?
 
-![Pregunta 10](https://github.com/user-attachments/assets/75fe6ed1-2be5-4a94-94b6-436f0c50ea75)
+![image](https://github.com/user-attachments/assets/6046ad15-0754-4d38-8a93-ff69fff8af10)
